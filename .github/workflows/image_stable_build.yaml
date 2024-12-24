@@ -1,4 +1,4 @@
-name: image_stable_build
+name: image_stable_build-fajita
 on:
   workflow_dispatch:
 #  schedule:
